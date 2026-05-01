@@ -5,6 +5,8 @@ description: Research a LinkedIn profile using Crustdata. Pulls a full profile (
 
 # Research a Person
 
+(v0.2-test — if you see this line in the loaded skill, auto-update from GitHub worked.)
+
 Goal: produce a concise research brief on a single person from a LinkedIn URL.
 
 ## Inputs
