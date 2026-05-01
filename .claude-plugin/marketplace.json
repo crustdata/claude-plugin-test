@@ -1,0 +1,13 @@
+{
+  "name": "crustdata-skills",
+  "owner": {
+    "name": "Crustdata"
+  },
+  "plugins": [
+    {
+      "name": "crustdata-research",
+      "source": "./crustdata-research",
+      "description": "Research people and companies using Crustdata data via Claude Code"
+    }
+  ]
+}
